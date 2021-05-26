@@ -16,5 +16,5 @@ Pollution data visualized in [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) fo
 ![05-20-2021-pollution data](images/05-20-2021-pollution-data.png)
 
 
-## License:
-[MIT](https://github.com/GaganSD/Air-Pollution-Visualizer/LICENSE) © Gagan Devagiri
+## License
+[MIT](https://github.com/GaganSD/Air-Pollution-Visualizer/blob/main/LICENSE) © Gagan Devagiri
